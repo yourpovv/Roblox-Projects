@@ -1,9 +1,9 @@
 return {
-
-"Gift", 
-"Loose Item", 
-"Item", 
-"Tool", 
-"Planks"
+    
+    "Gift", 
+    "Loose Item", 
+    "Item", 
+    "Tool", 
+    "Planks"
 
 }
