@@ -1,11 +1,11 @@
 return {
-
-"Tool", 
-"Loose Item", 
-"Gift", 
-"Structure", 
-"Blueprint", 
-"Vehicle", 
-"Vehicle Spot"
+    
+    "Tool", 
+    "Loose Item", 
+    "Gift", 
+    "Structure", 
+    "Blueprint", 
+    "Vehicle", 
+    "Vehicle Spot"
 
 }
