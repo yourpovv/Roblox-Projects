@@ -11,11 +11,7 @@
 
 ## Supported Games
 
-- **Miners Haven** 
-- **Murder Mystery 2** 
-- **Dandys World** 
-- **Lumber Tycoon 2**
-- **Mic-Up**
+- **Lumber Tycoon 2** (undergoing dev)
 
 
 ## Note
