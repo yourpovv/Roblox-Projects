@@ -1,63 +1,50 @@
-MapThemes = {
-    
+return {
     Christmas = {
         Ground = {"White", Enum.Material.Sand}, Slate = {"White"}, Road = {"Rust", Enum.Material.Cobblestone}, WoodSection = {"White"},
         LeafPart = {"White", Enum.Material.Sand}, Water = {"Bright blue"}, Sand = {"White"},
     },
-
     Autumn = {
         Ground = {"Bright orange", Enum.Material.Grass}, Slate = {"Burnt Sienna"}, Road = {"Fog", Enum.Material.Cobblestone},
         LeafPart = {{"Deep orange", "Br. yellowish orange", "CGA brown"}, Enum.Material.Grass}, Water = {"Deep blue"}, Sand = {"Nougat"},
     },
-
     Spring = {
         Ground = {"Lime green", Enum.Material.LeafyGrass}, Slate = {"Sand green"}, Road = {"Brick yellow", Enum.Material.Pavement},
         LeafPart = {{"Carnation pink", "Pink", "Lily white", "Light reddish violet"}, Enum.Material.Grass}, Water = {"Pastel light blue"}, Sand = {"Cool yellow"},
     },
-
     Halloween = {
         Ground = {"Really black", Enum.Material.Mud}, Slate = {"Dark stone grey"}, Road = {"Eggplant", Enum.Material.Cobblestone}, WoodSection = {"Really black"},
         LeafPart = {{"Neon orange", "Royal purple", "Really black"}, Enum.Material.Grass}, Water = {"Lime green"}, Sand = {"Dark taupe"},
     },
-
     Volcanic = {
         Ground = {"Black", Enum.Material.Basalt}, Slate = {"Really black", Enum.Material.CrackedLava}, Road = {"Dark stone grey", Enum.Material.Basalt}, WoodSection = {"Black"},
         LeafPart = {{"Really red", "Neon orange", "Crimson"}, Enum.Material.Neon}, Water = {"Neon orange"}, Sand = {"Burnt Sienna"},
     },
-
     Desert = {
         Ground = {"Brick yellow", Enum.Material.Sand}, Slate = {"Nougat", Enum.Material.Sandstone}, Road = {"Burnt Sienna", Enum.Material.Sandstone},
         LeafPart = {{"Olivine", "Sand green", "Khaki"}, Enum.Material.Grass}, Water = {"Teal"}, Sand = {"Cool yellow"},
     },
-
     Frozen = {
         Ground = {"Pastel light blue", Enum.Material.Glacier}, Slate = {"Light blue", Enum.Material.Ice}, Road = {"Steel blue", Enum.Material.Ice}, WoodSection = {"Lily white"},
         LeafPart = {{"Pastel light blue", "Baby blue", "White"}, Enum.Material.Ice}, Water = {"Light blue"}, Sand = {"Institutional white"},
     },
-
     Synthwave = {
         Ground = {"Really black", Enum.Material.SmoothPlastic}, Slate = {"Royal purple"}, Road = {"Hot pink", Enum.Material.Neon},
         LeafPart = {{"Hot pink", "Cyan", "Toothpaste", "Magenta"}, Enum.Material.Neon}, Water = {"Royal purple"}, Sand = {"Eggplant"},
     },
-
     Toxic = {
         Ground = {"Grime", Enum.Material.Mud}, Slate = {"Moss"}, Road = {"Black", Enum.Material.Asphalt},
         LeafPart = {{"Lime green", "Olivine", "Grime"}, Enum.Material.Neon}, Water = {"Lime green"}, Sand = {"Dark taupe"},
     },
-
     Candy = {
         Ground = {"Carnation pink", Enum.Material.SmoothPlastic}, Slate = {"Lavender"}, Road = {"White", Enum.Material.Marble}, WoodSection = {"Pastel brown"},
         LeafPart = {{"Hot pink", "Toothpaste", "Lavender", "Pastel yellow"}, Enum.Material.SmoothPlastic}, Water = {"Pink"}, Sand = {"Pastel yellow"},
     },
-
     Alien = {
         Ground = {"Royal purple", Enum.Material.Salt}, Slate = {"Teal", Enum.Material.Glass}, Road = {"Really black", Enum.Material.Basalt},
         LeafPart = {{"Toothpaste", "Lime green", "Cyan"}, Enum.Material.Neon}, Water = {"Magenta"}, Sand = {"Lavender"},
     },
-
     Midnight = {
         Ground = {"Navy blue", Enum.Material.Grass}, Slate = {"Storm blue"}, Road = {"Really black", Enum.Material.Asphalt},
         LeafPart = {{"Navy blue", "Deep blue", "Storm blue"}, Enum.Material.Grass}, Water = {"Really black"}, Sand = {"Smoky grey"},
     },
-
-},
+}
