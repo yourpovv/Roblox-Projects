@@ -1,0 +1,9 @@
+return {
+
+    ["Shrimpo Extract"]     = "rbxassetid://17561277632",
+    ["Flutter Ability"]     = "rbxassetid://18226927388",
+    ["Flutter Chase"]       = "rbxassetid://18239928544",
+    ["Razzle & Dazzle Sit"] = "rbxassetid://18989418012",
+    ["Wave"]                = "rbxassetid://17059625743",
+
+}
