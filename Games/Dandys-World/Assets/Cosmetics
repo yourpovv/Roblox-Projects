@@ -1,0 +1,9 @@
+return {
+
+    funnyTwistedHead = "rbxassetid://16496393049",
+    dandyIdle        = "rbxassetid://16496520991",
+    dandyRun         = "rbxassetid://16496812530",
+    dandyTexture     = "rbxassetid://16496414911",
+    dandyHurtTexture = "rbxassetid://17561468145",
+
+}
