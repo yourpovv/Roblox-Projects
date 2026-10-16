@@ -1,0 +1,9 @@
+return {
+
+    ["Plushie Dandy"] = {textures = {Body = "rbxassetid://18857813525", Head = "rbxassetid://18857813525"}},
+    ["Bald Dandy"]    = {remove = {"Hair"}},
+    ["Blue Vee"]      = {textures = {Body = "rbxassetid://18944440468", Head = "rbxassetid://18944440468"}, hide = {"Mic"}},
+    ["Weird Pebble"]  = {textures = {EyeL = "rbxassetid://18865385829", EyeR = "rbxassetid://18865385829", UpperTorso = "rbxassetid://18865385829"}},
+    ["Happy Pebble"]  = {textures = {EyeL = "rbxassetid://18983090757", EyeR = "rbxassetid://18983090757", UpperTorso = "rbxassetid://18983090757"}},
+
+}
