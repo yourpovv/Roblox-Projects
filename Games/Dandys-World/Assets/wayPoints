@@ -8,8 +8,8 @@ return {
     ["Elevator-3"]   = CFrame.new(75, 23, -92),
     ["Secret-Room"]  = CFrame.new(-180, 7, 36),
     ["Top of Map"]   = CFrame.new(21, 152, -96),
-    ["Mastery Room"] = {"Bed", "JackInTheBox"},
+    ["Mastery Room"] = {"Lobby", "SkinRoom", "Bed", "JackInTheBox"},
     ["Skin Summons"] = {"RevealRoom", "CurtainL"},
-    ["Player Spawn"] = {"SpawnLocation"},
+    ["Player Spawn"] = {"ToonSpawn"},
 
 }
